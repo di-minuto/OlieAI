@@ -1,0 +1,10 @@
+sounddevice
+numpy
+faster-whisper
+openai
+pyttsx3
+piper-tts
+pynput
+ddgs
+pillow
+pywin32

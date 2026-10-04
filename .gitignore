@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Voces de Piper (se descargan solas la primera vez, ~60 MB cada una)
+*.onnx
+*.onnx.json
+
+# Registro de la app (contiene tus conversaciones)
+*.log
+
+# Ajustes personales
+config_local.py
+
+# Accesos directos y archivos del sistema
+*.lnk
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/

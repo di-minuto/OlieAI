@@ -1,0 +1,3 @@
+# Opcional: reconocimiento de voz en una gráfica NVIDIA (mucho más rápido y preciso)
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
