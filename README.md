@@ -42,8 +42,8 @@ Todo con un modelo de IA local: sin suscripciones, sin claves de API y sin envia
 > ¿Es tu primera vez con Python o LM Studio? Sigue la **[guía de instalación paso a paso](docs/INSTALACION.md)**, que lo explica todo desde cero.
 
 ```
-git clone https://github.com/di-minuto/olie.git
-cd olie
+git clone https://github.com/di-minuto/OlieAI.git
+cd OlieAI
 pip install -r requirements.txt
 pip install -r requirements-gpu.txt      # solo con gráfica NVIDIA
 python crear_acceso_directo.py
